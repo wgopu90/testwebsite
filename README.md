@@ -1,6 +1,6 @@
 README
 ======
-This is a demonstration of using Jekyll/markdown and gh-pages to build a quick CV website.
+This is a demonstration of using a Jekyll/markdown and gh-pages to build a quick CV website.
 
 The theme is designed by Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/). Visit her website for more themes [http://themes.3rdwavemedia.com/](http://themes.3rdwavemedia.com/)
 
